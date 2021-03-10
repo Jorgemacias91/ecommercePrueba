@@ -40,7 +40,9 @@ const Home= 'Home';
 
 const compoen ='prueba';
 
-const relaciones = [1,2,3]
+const relaciones = [1,2,3];
+
+const otrasRelaciones = [4,5,6];
 
 module.exports = {
   ...sequelize.models, // para poder importar los modelos así: const { Product, User } = require('./db.js');
