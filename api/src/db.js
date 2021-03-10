@@ -34,6 +34,8 @@ const { Product } = sequelize.models;
 
 // Aca vendrian las relaciones
 // Product.hasMany(Reviews);
+const relaciones = {a:2}
+
 const Prueba = [prueba,1];
 
 const Home= 'Home';
