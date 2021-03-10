@@ -44,7 +44,7 @@ const relaciones = [1,2,3]
 
 const prueba1= [1,2,3]
 
-const prueba3 = [1,2,3,4, 5]
+const prueba3 = [1,2,3,4, 5,6]
 
 module.exports = {
   ...sequelize.models, // para poder importar los modelos así: const { Product, User } = require('./db.js');
